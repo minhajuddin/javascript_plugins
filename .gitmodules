@@ -1,3 +1,24 @@
 [submodule "jquery-tmpl"]
 	path = jquery-tmpl
 	url = http://github.com/jquery/jquery-tmpl.git
+[submodule "jquery"]
+	path = jquery
+	url = http://github.com/jquery/jquery.git
+[submodule "jquery-datalink"]
+	path = jquery-datalink
+	url = http://github.com/jquery/jquery-datalink.git
+[submodule "jquery-metadata"]
+	path = jquery-metadata
+	url = http://github.com/jquery/jquery-metadata.git
+[submodule "jquery-ui"]
+	path = jquery-ui
+	url = http://github.com/jquery/jquery-ui.git
+[submodule "jquery-color"]
+	path = jquery-color
+	url = http://github.com/jquery/jquery-color.git
+[submodule "form"]
+	path = form
+	url = http://github.com/malsup/form.git
+[submodule "jquery-validation"]
+	path = jquery-validation
+	url = http://github.com/jzaefferer/jquery-validation.git
